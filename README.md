@@ -94,12 +94,15 @@ Building scalable backend systems with Go, Redis, RabbitMQ, and clean architectu
 
 ---
 
-### 🏗️ MKB Green Marble Platform
+### 🏗️ MKB Green Marble Platform  
 **Go | MySQL | Docker | Protocol Buffers**
 
-- Built production-ready backend with **layered architecture**
-- Implemented **authentication, authorization, and secure APIs**
-- Managed **schema migrations and indexing**
+🌐 **Live:** [mkbgreen.com](https://www.mkbgreen.com/)
+
+- Built a production-ready backend in **Go** using layered architecture for modular services and maintainable APIs
+- Implemented **authentication, authorization, and secure API access controls**
+- Managed **schema migrations, indexing, and scalable database design**
+- Containerized and deployed backend services using **Docker**
 
 ---
 
