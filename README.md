@@ -109,13 +109,27 @@ Building scalable backend systems with Go, Redis, RabbitMQ, and clean architectu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BihaniManan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BihaniManan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BihaniManan&theme=tokyo-night&hide_border=true&area=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BihaniManan&theme=tokyonight&hide_border=true" />
+  <img width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BihaniManan&theme=tokyonight&utcOffset=5.5"
+  />
+
+  <img width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BihaniManan&theme=tokyonight"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=BihaniManan&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+</p>
+
 
 ---
 
